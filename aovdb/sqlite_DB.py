@@ -3,6 +3,9 @@ from personajes import Personaje
 
 conn = sqlite3.connect('jDbArena.db')
 
+
+
+
 c = conn.cursor()
 '''
 # CREACION DE LA TABLA
